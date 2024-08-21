@@ -1,7 +1,7 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
 # File Created: 20.04.2011 15:23:45
 
-mtllib 10487_basketball_v1_3dmax2011_it2.mtl
+mtllib https://github.com/StefanoCopreni/object3d/blob/main/ball/ball.mtl
 
 #
 # object 10487_basketball_V1_
